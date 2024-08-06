@@ -1,0 +1,364 @@
+[
+{
+    "id": 1,
+    "name": "Abra",
+    "price": 1.00,
+    "type": [
+      "psychic"
+    ],
+    "stats": {
+      "total": 310,
+      "hp": 25,
+      "attack": 20,
+      "defense": 15,
+      "sp-atk": 105,
+      "sp-def": 55,
+      "speed": 90
+    }
+  },
+  {
+    "id": 2,
+    "name": "Aerodactyl",
+    "price": 1.00,
+    "type": [
+      "rock",
+      "flying"
+    ],
+    "stats": {
+      "total": 515,
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "sp-atk": 60,
+      "sp-def": 75,
+      "speed": 130
+    }
+  },
+  {
+    "id": 3,
+    "name": "Alakazam",
+    "price": 1.00,
+    "type": [
+      "psychic"
+    ],
+    "stats": {
+      "total": 500,
+      "hp": 55,
+      "attack": 50,
+      "defense": 45,
+      "sp-atk": 135,
+      "sp-def": 95,
+      "speed": 120
+    }
+  },
+  {
+    "id": 4,
+    "name": "Arbok",
+    "price": 2.50,
+    "type": [
+      "poison"
+    ],
+    "stats": {
+      "total": 448,
+      "hp": 60,
+      "attack": 95,
+      "defense": 69,
+      "sp-atk": 65,
+      "sp-def": 79,
+      "speed": 80
+    }
+  },
+  {
+    "id": 5,
+    "name": "Arcanine",
+    "price": 1.00,
+    "type": [
+      "fire"
+    ],
+    "stats": {
+      "total": 555,
+      "hp": 90,
+      "attack": 110,
+      "defense": 80,
+      "sp-atk": 100,
+      "sp-def": 80,
+      "speed": 95
+    }
+  },
+  {
+    "id": 6,
+    "name": "Articuno",
+    "price": 5.00,
+    "type": [
+      "ice",
+      "flying"
+    ],
+    "stats": {
+      "total": 580,
+      "hp": 90,
+      "attack": 85,
+      "defense": 100,
+      "sp-atk": 95,
+      "sp-def": 125,
+      "speed": 85
+    }
+  },
+  {
+    "id": 7,
+    "name": "Beedrill",
+    "price": 2.50,
+    "type": [
+      "bug",
+      "poison"
+    ],
+    "stats": {
+      "total": 395,
+      "hp": 65,
+      "attack": 90,
+      "defense": 40,
+      "sp-atk": 45,
+      "sp-def": 80,
+      "speed": 75
+    }
+  },
+  {
+    "id": 8,
+    "name": "Bellsprout",
+    "price": 1.00,
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "total": 300,
+      "hp": 50,
+      "attack": 75,
+      "defense": 35,
+      "sp-atk": 70,
+      "sp-def": 30,
+      "speed": 40
+    }
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "price": 2.50,
+    "type": [
+      "water"
+    ],
+    "stats": {
+      "total": 530,
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "sp-atk": 85,
+      "sp-def": 105,
+      "speed": 78
+    }
+  },
+  {
+    "id": 10,
+    "name": "Bulbasaur",
+    "type": [
+      "grass",
+      "poison"
+    ],
+    "stats": {
+      "total": 318,
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "sp-atk": 65,
+      "sp-def": 65,
+      "speed": 45
+    }
+  },
+  {
+    "id": 11,
+    "name": "Butterfree",
+    "price": 2.50,
+    "type": [
+      "bug",
+      "flying"
+    ],
+    "stats": {
+      "total": 395,
+      "hp": 60,
+      "attack": 45,
+      "defense": 50,
+      "sp-atk": 90,
+      "sp-def": 80,
+      "speed": 70
+    }
+  },
+  {
+    "id": 12,
+    "name": "Caterpie",
+    "price": 3.00,
+    "type": [
+      "bug"
+    ],
+    "stats": {
+      "total": 195,
+      "hp": 45,
+      "attack": 30,
+      "defense": 35,
+      "sp-atk": 20,
+      "sp-def": 20,
+      "speed": 45
+    }
+  },
+  {
+    "id": 13,
+    "name": "Chansey",
+    "price": 1.00,
+    "type": [
+      "normal"
+    ],
+    "stats": {
+      "total": 450,
+      "hp": 250,
+      "attack": 5,
+      "defense": 5,
+      "sp-atk": 35,
+      "sp-def": 105,
+      "speed": 50
+    }
+  },
+  {
+    "id": 14,
+    "name": "Charizard",
+    "price": 3.00,
+    "type": [
+      "fire",
+      "flying"
+    ],
+    "stats": {
+      "total": 534,
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "sp-atk": 109,
+      "sp-def": 85,
+      "speed": 100
+    }
+  },
+  {
+    "id": 15,
+    "name": "Charmander",
+    "type": [
+      "fire"
+    ],
+    "stats": {
+      "total": 309,
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "sp-atk": 60,
+      "sp-def": 50,
+      "speed": 65
+    }
+  },
+  {
+    "id": 16,
+    "name": "Charmeleon",
+    "price": 2.50,
+    "type": [
+      "fire"
+    ],
+    "stats": {
+      "total": 405,
+      "hp": 58,
+      "attack": 64,
+      "defense": 58,
+      "sp-atk": 80,
+      "sp-def": 65,
+      "speed": 80
+    }
+  },
+  {
+    "id": 17,
+    "name": "Clefable",
+    "price": 2.50,
+    "type": [
+      "fairy"
+    ],
+    "stats": {
+      "total": 483,
+      "hp": 95,
+      "attack": 70,
+      "defense": 73,
+      "sp-atk": 95,
+      "sp-def": 90,
+      "speed": 60
+    }
+  },
+  {
+    "id": 18,
+    "name": "Clefairy",
+    "price": 3.00,
+    "type": [
+      "fairy"
+    ],
+    "stats": {
+      "total": 323,
+      "hp": 70,
+      "attack": 45,
+      "defense": 48,
+      "sp-atk": 60,
+      "sp-def": 65,
+      "speed": 35
+    }
+  },
+  {
+    "id": 19,
+    "name": "Cloyster",
+    "type": [
+      "water",
+      "ice"
+    ],
+    "stats": {
+      "total": 525,
+      "hp": 50,
+      "attack": 95,
+      "defense": 180,
+      "sp-atk": 85,
+      "sp-def": 45,
+      "speed": 70
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cubone",
+    "type": [
+      "ground"
+    ],
+    "stats": {
+      "total": 320,
+      "hp": 50,
+      "attack": 50,
+      "defense": 95,
+      "sp-atk": 40,
+      "sp-def": 50,
+      "speed": 35
+    }
+  },
+  {
+    "id": 21,
+    "name": "Dewgong",
+    "price": 2.50,
+    "type": [
+      "water",
+      "ice"
+    ],
+    "stats": {
+      "total": 475,
+      "hp": 90,
+      "attack": 70,
+      "defense": 80,
+      "sp-atk": 70,
+      "sp-def": 95,
+      "speed": 70
+    }
+  }
+]
